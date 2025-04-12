@@ -31,4 +31,4 @@ This program will detect the age and gender of a person in an image and also thr
 
       python detect.py
 
-  press 'q' to stop the execution.
+Press 'q' to stop the execution.
