@@ -4,11 +4,11 @@ Using ML and Computer Vision with Python and OpenCV to analyze photos and predic
 <b>libraries required:</b><br>
 - OpenCV
 
-        pip install opencv-python
+      pip install opencv-python
   
 - argparse
 
-        pip install argparse
+      pip install argparse
 
 <b>files required:</b><br>
 - opencv_face_detector.pbtxt<br>
