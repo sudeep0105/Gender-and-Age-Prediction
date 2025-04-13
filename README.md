@@ -1,5 +1,5 @@
 # Gender-and-Age-Prediction
-This program will detect the age and gender of a person in an image and also through the WebCam using ML and Computer Vision with Python and OpenCV to analyze photos and predict age and gender, overcoming challenges like cosmetics and lighting.
+To detect the age and gender of a person in an image and also through the WebCam using ML and Computer Vision with Python and OpenCV to analyze photos and predict age and gender, overcoming challenges like cosmetics and lighting.
 
 
 <b>libraries required:</b><br>
